@@ -1,0 +1,25 @@
+<p>harian blankon</p>
+
+<a href="$data.blankonUrl">daftar paket harian</a>
+
+<p>lebih kecil dari sid</p>
+<ul if="notEmpty(data.less)">
+  <li  for="package in data.less">
+    <b>$package.name</b> <span>$package.blankonVersion</span> </span>$package.sidVersion</span>
+  </li>
+</ul>
+<div else>
+  aman!
+</div>
+
+<p>lebih besar dari sid</p>
+<ul if="notEmpty(data.greater)">
+  <li  for="package in data.greater">
+    <b>$package.name</b> <span>$package.blankonVersion</span> </span>$package.sidVersion</span>
+  </li>
+</ul>
+<div else>
+  keren!
+</div>
+
+<p>hak cipta blankon 2015</p>

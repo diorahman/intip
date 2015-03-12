@@ -1,0 +1,783 @@
+{
+  "equal": [
+    {
+      "name": "accountsservice",
+      "blankonVersion": "0.6.37-3+b1",
+      "sidVersion": "0.6.37-3+b1",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "adduser",
+      "blankonVersion": "3.113+nmu3",
+      "sidVersion": "3.113+nmu3",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "apt",
+      "blankonVersion": "1.0.9.7",
+      "sidVersion": "1.0.9.7",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "at-spi2-core",
+      "blankonVersion": "2.14.0-1",
+      "sidVersion": "2.14.0-1",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "audacious",
+      "blankonVersion": "3.5-2",
+      "sidVersion": "3.5-2",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "audacious-plugins",
+      "blankonVersion": "3.5-1+b2",
+      "sidVersion": "3.5-1+b2",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "baobab",
+      "blankonVersion": "3.14.1-1",
+      "sidVersion": "3.14.1-1",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "bash",
+      "blankonVersion": "4.3-12",
+      "sidVersion": "4.3-12",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "bluez",
+      "blankonVersion": "5.23-2+b1",
+      "sidVersion": "5.23-2+b1",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "brasero",
+      "blankonVersion": "3.11.4-1.1",
+      "sidVersion": "3.11.4-1.1",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "bzip2",
+      "blankonVersion": "1.0.6-7+b2",
+      "sidVersion": "1.0.6-7+b2",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "ca-certificates",
+      "blankonVersion": "20141019",
+      "sidVersion": "20141019",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "ca-certificates-java",
+      "blankonVersion": "20140324",
+      "sidVersion": "20140324",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "cheese",
+      "blankonVersion": "3.14.1-2",
+      "sidVersion": "3.14.1-2",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "colord",
+      "blankonVersion": "1.2.1-1+b2",
+      "sidVersion": "1.2.1-1+b2",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "dbus",
+      "blankonVersion": "1.8.16-1",
+      "sidVersion": "1.8.16-1",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "debconf",
+      "blankonVersion": "1.5.55",
+      "sidVersion": "1.5.55",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "debhelper",
+      "blankonVersion": "9.20150101",
+      "sidVersion": "9.20150101",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "desktop-base",
+      "blankonVersion": "8.0.2",
+      "sidVersion": "8.0.2",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "dictionaries-common",
+      "blankonVersion": "1.23.17",
+      "sidVersion": "1.23.17",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "dosfstools",
+      "blankonVersion": "3.0.27-1",
+      "sidVersion": "3.0.27-1",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "dpkg",
+      "blankonVersion": "1.17.24",
+      "sidVersion": "1.17.24",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "e2fsprogs",
+      "blankonVersion": "1.42.12-1.1",
+      "sidVersion": "1.42.12-1.1",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "eog",
+      "blankonVersion": "3.14.1-1",
+      "sidVersion": "3.14.1-1",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "file-roller",
+      "blankonVersion": "3.14.1-1",
+      "sidVersion": "3.14.1-1",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "fuse",
+      "blankonVersion": "2.9.3-15+b1",
+      "sidVersion": "2.9.3-15+b1",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "gcc-4.8",
+      "blankonVersion": "4.8.4-1",
+      "sidVersion": "4.8.4-1",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "gcr",
+      "blankonVersion": "3.14.0-2",
+      "sidVersion": "3.14.0-2",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "gdebi",
+      "blankonVersion": "0.9.5.5+nmu1",
+      "sidVersion": "0.9.5.5+nmu1",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "gedit",
+      "blankonVersion": "3.14.0-3",
+      "sidVersion": "3.14.0-3",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "geoclue-2.0",
+      "blankonVersion": "2.1.10-2",
+      "sidVersion": "2.1.10-2",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "gksu",
+      "blankonVersion": "2.0.2-9",
+      "sidVersion": "2.0.2-9",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "glib-networking",
+      "blankonVersion": "2.42.0-2",
+      "sidVersion": "2.42.0-2",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "gnome-bluetooth",
+      "blankonVersion": "3.14.0-2",
+      "sidVersion": "3.14.0-2",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "gnome-calculator",
+      "blankonVersion": "3.14.1-1",
+      "sidVersion": "3.14.1-1",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "gnome-disk-utility",
+      "blankonVersion": "3.12.1-1+b1",
+      "sidVersion": "3.12.1-1+b1",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "gnome-icon-theme-symbolic",
+      "blankonVersion": "3.12.0-1",
+      "sidVersion": "3.12.0-1",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "gnome-keyring",
+      "blankonVersion": "3.14.0-1+b1",
+      "sidVersion": "3.14.0-1+b1",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "gnome-media",
+      "blankonVersion": "3.4.0-2",
+      "sidVersion": "3.4.0-2",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "gnome-menus",
+      "blankonVersion": "3.13.3-5",
+      "sidVersion": "3.13.3-5",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "gnome-nettool",
+      "blankonVersion": "3.8.1-1",
+      "sidVersion": "3.8.1-1",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "gnome-online-accounts",
+      "blankonVersion": "3.14.2-1",
+      "sidVersion": "3.14.2-1",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "gnome-packagekit",
+      "blankonVersion": "3.14.0-1",
+      "sidVersion": "3.14.0-1",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "gnome-power-manager",
+      "blankonVersion": "3.14.1-1",
+      "sidVersion": "3.14.1-1",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "gnome-screensaver",
+      "blankonVersion": "3.6.1-4",
+      "sidVersion": "3.6.1-4",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "gnome-search-tool",
+      "blankonVersion": "3.6.0-1",
+      "sidVersion": "3.6.0-1",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "gnome-settings-daemon",
+      "blankonVersion": "3.14.2-2",
+      "sidVersion": "3.14.2-2",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "gnome-sushi",
+      "blankonVersion": "3.12.0-2+b1",
+      "sidVersion": "3.12.0-2+b1",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "gnome-system-log",
+      "blankonVersion": "3.9.90-2",
+      "sidVersion": "3.9.90-2",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "gnome-system-monitor",
+      "blankonVersion": "3.14.1-1",
+      "sidVersion": "3.14.1-1",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "gnome-terminal",
+      "blankonVersion": "3.14.1-1",
+      "sidVersion": "3.14.1-1",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "gnome-themes-standard",
+      "blankonVersion": "3.14.2.2-1",
+      "sidVersion": "3.14.2.2-1",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "gnome-user-share",
+      "blankonVersion": "3.14.0-2",
+      "sidVersion": "3.14.0-2",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "gparted",
+      "blankonVersion": "0.19.0-2",
+      "sidVersion": "0.19.0-2",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "gvfs",
+      "blankonVersion": "1.22.2-1",
+      "sidVersion": "1.22.2-1",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "ifupdown",
+      "blankonVersion": "0.7.52",
+      "sidVersion": "0.7.52",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "java-common",
+      "blankonVersion": "0.52",
+      "sidVersion": "0.52",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "less",
+      "blankonVersion": "458-3",
+      "sidVersion": "458-3",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "libcdaudio1",
+      "blankonVersion": "0.99.12p2-13+b1",
+      "sidVersion": "0.99.12p2-13+b1",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "libtext-charwidth-perl",
+      "blankonVersion": "0.04-7+b3",
+      "sidVersion": "0.04-7+b3",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "libuuid-perl",
+      "blankonVersion": "0.05-1+b1",
+      "sidVersion": "0.05-1+b1",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "lintian",
+      "blankonVersion": "2.5.30+deb8u3",
+      "sidVersion": "2.5.30+deb8u3",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "live-boot",
+      "blankonVersion": "4.0.2-1",
+      "sidVersion": "4.0.2-1",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "live-config",
+      "blankonVersion": "4.0.4-1",
+      "sidVersion": "4.0.4-1",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "locales",
+      "blankonVersion": "2.19-15",
+      "sidVersion": "2.19-15",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "manpages",
+      "blankonVersion": "3.74-1",
+      "sidVersion": "3.74-1",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "mobile-broadband-provider-info",
+      "blankonVersion": "20140317-1",
+      "sidVersion": "20140317-1",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "modemmanager",
+      "blankonVersion": "1.4.0-1",
+      "sidVersion": "1.4.0-1",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "mutter",
+      "blankonVersion": "3.14.2-1",
+      "sidVersion": "3.14.2-1",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "nautilus-sendto",
+      "blankonVersion": "3.8.2-1",
+      "sidVersion": "3.8.2-1",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "netbase",
+      "blankonVersion": "5.3",
+      "sidVersion": "5.3",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "network-manager",
+      "blankonVersion": "0.9.10.0-6",
+      "sidVersion": "0.9.10.0-6",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "network-manager-pptp",
+      "blankonVersion": "0.9.10.0-1",
+      "sidVersion": "0.9.10.0-1",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "openssl",
+      "blankonVersion": "1.0.1k-1",
+      "sidVersion": "1.0.1k-1",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "p11-kit",
+      "blankonVersion": "0.20.7-1",
+      "sidVersion": "0.20.7-1",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "packagekit",
+      "blankonVersion": "1.0.1-2",
+      "sidVersion": "1.0.1-2",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "parted",
+      "blankonVersion": "3.2-6",
+      "sidVersion": "3.2-6",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "pidgin",
+      "blankonVersion": "2.10.11-1",
+      "sidVersion": "2.10.11-1",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "pidgin-libnotify",
+      "blankonVersion": "0.14-9",
+      "sidVersion": "0.14-9",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "plymouth",
+      "blankonVersion": "0.9.0-9",
+      "sidVersion": "0.9.0-9",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "pulseaudio",
+      "blankonVersion": "5.0-13",
+      "sidVersion": "5.0-13",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "python-apt",
+      "blankonVersion": "0.9.3.11",
+      "sidVersion": "0.9.3.11",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "python-cups",
+      "blankonVersion": "1.9.63-1",
+      "sidVersion": "1.9.63-1",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "python2.7",
+      "blankonVersion": "2.7.9-2",
+      "sidVersion": "2.7.9-2",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "scim",
+      "blankonVersion": "1.4.15-3",
+      "sidVersion": "1.4.15-3",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "seahorse",
+      "blankonVersion": "3.14.0-2",
+      "sidVersion": "3.14.0-2",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "sudo",
+      "blankonVersion": "1.8.12-1",
+      "sidVersion": "1.8.12-1",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "system-config-printer",
+      "blankonVersion": "1.4.6-1",
+      "sidVersion": "1.4.6-1",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "tasksel",
+      "blankonVersion": "3.30",
+      "sidVersion": "3.30",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "tzdata",
+      "blankonVersion": "2015a-1",
+      "sidVersion": "2015a-1",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "udev",
+      "blankonVersion": "215-12",
+      "sidVersion": "215-12",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "update-notifier",
+      "blankonVersion": "3.14.0-1",
+      "sidVersion": "3.14.0-1",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "upower",
+      "blankonVersion": "0.99.1-3.1",
+      "sidVersion": "0.99.1-3.1",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "usb-modeswitch",
+      "blankonVersion": "2.2.0+repack0-2",
+      "sidVersion": "2.2.0+repack0-2",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "usb-modeswitch-data",
+      "blankonVersion": "20140529-1",
+      "sidVersion": "20140529-1",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "vlc",
+      "blankonVersion": "2.2.0~rc2-2",
+      "sidVersion": "2.2.0~rc2-2",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "xdg-user-dirs",
+      "blankonVersion": "0.15-2",
+      "sidVersion": "0.15-2",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "xserver-xorg-input-synaptics",
+      "blankonVersion": "1.8.1-1",
+      "sidVersion": "1.8.1-1",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "zenity",
+      "blankonVersion": "3.14.0-1",
+      "sidVersion": "3.14.0-1",
+      "hasBlankon1Version": false
+    }
+  ],
+  "greater": [
+    {
+      "name": "base-files",
+      "blankonVersion": "8blankon2",
+      "sidVersion": "8",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "busybox",
+      "blankonVersion": "1:1.22.0-14",
+      "sidVersion": "1",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "gcalctool",
+      "blankonVersion": "1:3.14.1-1",
+      "sidVersion": "1",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "gnome-control-center",
+      "blankonVersion": "1:3.14.2-3",
+      "sidVersion": "1",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "gnome-font-viewer",
+      "blankonVersion": "3.14.0-1blankon1",
+      "sidVersion": "3.14.0-1",
+      "hasBlankon1Version": true
+    },
+    {
+      "name": "gnome-icon-theme",
+      "blankonVersion": "3.12.0-1blankon1",
+      "sidVersion": "3.12.0-1",
+      "hasBlankon1Version": true
+    },
+    {
+      "name": "gnome-screenshot",
+      "blankonVersion": "3.14.0-1blankon1",
+      "sidVersion": "3.14.0-1",
+      "hasBlankon1Version": true
+    },
+    {
+      "name": "gnome-session",
+      "blankonVersion": "3.14.0-2blankon1",
+      "sidVersion": "3.14.0-2",
+      "hasBlankon1Version": true
+    },
+    {
+      "name": "gsettings-desktop-schemas",
+      "blankonVersion": "3.14.1-1blankon1",
+      "sidVersion": "3.14.1-1",
+      "hasBlankon1Version": true
+    },
+    {
+      "name": "gthumb",
+      "blankonVersion": "3:3.3.1-2+b2",
+      "sidVersion": "3",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "gtk2-engines-murrine",
+      "blankonVersion": "0.98.1.1-5.1blankon1",
+      "sidVersion": "0.98.1.1-5",
+      "hasBlankon1Version": true
+    },
+    {
+      "name": "gtk3-engines-unico",
+      "blankonVersion": "1.0.2+r139-0ubuntu2+blankon1",
+      "sidVersion": "1.0.2-1",
+      "hasBlankon1Version": true
+    },
+    {
+      "name": "libcap2",
+      "blankonVersion": "1:2.24-6",
+      "sidVersion": "1",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "lightdm",
+      "blankonVersion": "1.10.3-3blankon1",
+      "sidVersion": "1.10.3-3",
+      "hasBlankon1Version": true
+    },
+    {
+      "name": "mousetweaks",
+      "blankonVersion": "3.12.0-1blankon1",
+      "sidVersion": "3.12.0-1",
+      "hasBlankon1Version": true
+    },
+    {
+      "name": "nautilus",
+      "blankonVersion": "3.14.1-2blankon1",
+      "sidVersion": "3.14.1-2",
+      "hasBlankon1Version": true
+    },
+    {
+      "name": "notification-daemon",
+      "blankonVersion": "0.7.6-2blankon2",
+      "sidVersion": "0.7.6-2",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "notify-osd",
+      "blankonVersion": "0.9.35+14.04.20140213-0ubuntu2+blankon1",
+      "sidVersion": "0.9.34-2",
+      "hasBlankon1Version": true
+    },
+    {
+      "name": "ntfs-3g",
+      "blankonVersion": "1:2014.2.15AR.3-1",
+      "sidVersion": "1",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "policykit-1",
+      "blankonVersion": "0.110-2blankon1",
+      "sidVersion": "0.105-8",
+      "hasBlankon1Version": true
+    },
+    {
+      "name": "policykit-1-gnome",
+      "blankonVersion": "0.105-2blankon1",
+      "sidVersion": "0.105-2",
+      "hasBlankon1Version": true
+    },
+    {
+      "name": "samba",
+      "blankonVersion": "2:4.1.17+dfsg-1",
+      "sidVersion": "2",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "udisks2",
+      "blankonVersion": "2.1.3-5blankon1",
+      "sidVersion": "2.1.3-5",
+      "hasBlankon1Version": true
+    },
+    {
+      "name": "xserver-xorg-input-evdev",
+      "blankonVersion": "1:2.9.0-2",
+      "sidVersion": "1",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "xserver-xorg-input-vmmouse",
+      "blankonVersion": "1:13.0.0-1+b3",
+      "sidVersion": "1",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "xserver-xorg-video-intel",
+      "blankonVersion": "2:2.21.15-2+b2",
+      "sidVersion": "2",
+      "hasBlankon1Version": false
+    }
+  ],
+  "less": [
+    {
+      "name": "evince",
+      "blankonVersion": "3.14.1-1",
+      "sidVersion": "3.14.1-2",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "initramfs-tools",
+      "blankonVersion": "0.118",
+      "sidVersion": "0.119",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "perl",
+      "blankonVersion": "5.20.2-1",
+      "sidVersion": "5.20.2-2",
+      "hasBlankon1Version": false
+    },
+    {
+      "name": "simple-scan",
+      "blankonVersion": "3.15.4-1",
+      "sidVersion": "3.15.91-1",
+      "hasBlankon1Version": false
+    }
+  ],
+  "blankonUrl": "http://cdimage.blankonlinux.or.id/blankon/livedvd-harian/20150309/tambora-desktop-amd64.list"
+}
