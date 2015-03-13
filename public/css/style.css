@@ -1,0 +1,8 @@
+body {
+  padding-top: 50px;
+}
+
+.img-responsive {
+	border-radius: 15px;
+	width: 200px;
+}
