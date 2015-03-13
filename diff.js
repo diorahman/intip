@@ -20,7 +20,6 @@ function hasBlankon1(version) {
 }
 
 module.exports = function() {
-
   dataStream
   .pipe(JSONStream.parse())
   .pipe(es.mapSync(function (repoPackages) {
